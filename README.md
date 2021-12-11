@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Marcin (Martin)</h1>
 
-## **About me**
+### **About me**
 
 - 💼 I'm looking for job as Junior/Inter Python Developer.
 
@@ -11,7 +11,7 @@
 </br>
 </br>
 
-### **I've worked with:**
+#### **I've worked with:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
@@ -24,7 +24,7 @@
 <a href="https://www.postgresql.org" title="PostgrSQL"><img src="icons/postgres.png" /></a>
 <a href="https://www.sqlite.org" title="SQLite"><img src="icons/sqlite.png" /></a>
 
-### **I'm interested in and haven't worked with:**
+#### **I'm interested in and haven't worked with:**
 
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
@@ -32,7 +32,7 @@
 <a href="https://pl.wikipedia.org/wiki/Kaskadowe_arkusze_stylów" title="CSS"><img src="icons/css.png" /></a>
 <a href="https://pl.wikipedia.org/wiki/HTML5" title="HTML5"><img src="icons/html5.png" /></a>
 
-### **I have a basic knowledge of:**
+#### **I have a basic knowledge of:**
 
 <a href="https://www.java.com" title="Java"><img src="icons/java.png" /></a>
 <a href="https://www.qt.io" title="Qt"><img src="icons/qt.png" /></a>
