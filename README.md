@@ -2,7 +2,7 @@
 
 ### **About me**
 
-- 💼 I'm looking for job as Junior/Intern Python Developer.
+- 💼 I'm looking for job as Python Developer.
 
 - 📈 Now, I'm focusing on building portfolio, mainly projects in technologies which I've worked with.
 
